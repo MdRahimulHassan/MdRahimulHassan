@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahimul</h1>
-<h3 align="center">Building backend systems in Go — with an eye on NLP & Information Retrieval research</h3>
+<h3 align="center">Building backend systems in Go — with an eye on MCP & Information Retrieval research</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MdRahimulHassan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -95,16 +95,23 @@ Includes an LLM-as-judge evaluation system to assess retrieval and answer qualit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MdRahimulHassan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MdRahimulHassan&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MdRahimulHassan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MdRahimulHassan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRahimulHassan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MdRahimulHassan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<!--<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdRahimulHassan&theme=tokyo-night&hide_border=true" />
+</p>-->
+
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdRahimulHassan&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://raw.githubusercontent.com/MdRahimulHassan/MdRahimulHassan/output/github-contribution-grid-snake2.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
